@@ -37,8 +37,7 @@ Ensure that you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ip_scanner.git
-   cd ip_scanner
+   https://github.com/MahmoudBayoumi58/ip-address-reputation.git
    ```
 
 2. **Set up a virtual environment**:
